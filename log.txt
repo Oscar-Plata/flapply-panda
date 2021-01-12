@@ -1,1 +1,2 @@
 #log file 
+log 1 nuew commit
