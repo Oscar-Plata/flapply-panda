@@ -151,3 +151,4 @@ function loop(){
 //Eventos
 window.addEventListener("resize",resize)
 window.addEventListener("keydown",pulsoboton)
+window.addEventListener("click",pulsoboton)

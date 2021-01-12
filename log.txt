@@ -1,3 +1,4 @@
 #log file 
 log 1 nuew commit
 log 2 browser edit
+log 3 click enabled
